@@ -1,0 +1,2 @@
+Hello world from local repo "Jonny@HangHome MINGW64 ~/Documents/LPC/cs07-intro-compu-progaming-python-summer-24/test_git (master)
+$ notepad demo.txt" 
